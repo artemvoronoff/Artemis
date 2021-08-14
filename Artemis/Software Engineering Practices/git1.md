@@ -1,3 +1,5 @@
+Scenario #1 Git
+
 Step 1: You have a local version of a repository on your laptop, and to get the latest stable version, you pull from the develop branch.
 
 	a.) Switch to the develop branch:
